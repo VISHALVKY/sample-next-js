@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="container">
         <div className="footer-content">
           <div className="footer-text">
-            <p className="copyright">&copy; 2024 My Portfolio. All rights reserved.</p>
+            <p className="copyright">&copy; 2025 My Portfolio. All rights reserved.</p>
             <p className="built-with">Built with Next.js & React</p>
           </div>
           <div className="social-links">

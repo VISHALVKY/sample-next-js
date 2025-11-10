@@ -53,7 +53,7 @@ export default function Contact() {
                   <div className="method-icon">📱</div>
                   <div>
                     <h3 className="method-title">Phone</h3>
-                    <p className="method-detail">+1 (555) 123-4567</p>
+                    <p className="method-detail">+91 9876543210</p>
                   </div>
                 </div>
                 
@@ -61,7 +61,7 @@ export default function Contact() {
                   <div className="method-icon">📍</div>
                   <div>
                     <h3 className="method-title">Location</h3>
-                    <p className="method-detail">New York, NY</p>
+                    <p className="method-detail">Chennai, IND</p>
                   </div>
                 </div>
               </div>
